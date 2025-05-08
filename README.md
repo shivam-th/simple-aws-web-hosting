@@ -11,15 +11,6 @@ Health checks and security groups
 
 Unique content per instance (via Apache index.html)
 
-🗂 Project Structure
-
-.
-├── main.tf
-├── variables.tf
-├── terraform.tfvars
-├── outputs.tf
-├── user_data.sh
-└── README.md
 
 🚀 Prerequisites
 
